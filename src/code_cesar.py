@@ -93,7 +93,7 @@ def est_lettre(char):
     Pour cet exercice, on considère que les lettres accentuées NE SONT PAS 
     des lettres standards (pour simplifier les maths).
 
-    Args:
+    Args:zzz
         char (str): Le caractère à tester.
 
     Returns:
